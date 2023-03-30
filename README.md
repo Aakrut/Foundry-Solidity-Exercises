@@ -20,4 +20,7 @@
 - [x] Enum
 - [x] EverythingWorks
 - [x] Exponent
+- [x] Fibonacci
+- [x] FilterOddNumbers
+- [x] FizzBuzz
 
