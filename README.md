@@ -23,4 +23,11 @@
 - [x] Fibonacci
 - [x] FilterOddNumbers
 - [x] FizzBuzz
+- [x] IdiotBetting
+- [x] IfStatement
+- [x] Immutable
+- [x] InheritanceOverride
+- [x] InsertInArray
+- [x] IsPrime
+- [x] IsSorted
 
