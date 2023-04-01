@@ -30,4 +30,17 @@
 - [x] InsertInArray
 - [x] IsPrime
 - [x] IsSorted
-
+- [x] ListOfNumbers
+- [x] Mean
+- [x] MultiInheritance
+- [x] NestedArray
+- [x] NestedMapping
+- [x] NotEnough
+- [x] OneWeekLockup
+- [x] OriginVsSender
+- [x] Owner
+- [x] PriceIsRight
+- [x] PublicFunction
+- [x] PublicVariable
+- [x] PureVsView
+- [x] Receive
