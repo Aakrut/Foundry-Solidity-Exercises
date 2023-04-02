@@ -44,3 +44,15 @@
 - [x] PublicVariable
 - [x] PureVsView
 - [x] Receive
+- [x] ReducingPayout
+- [x] SelfDestroyer
+- [x] SpecialNumbers
+- [x] Stack
+- [x] SumArray
+- [x] Super
+- [x] TicTacToe
+- [x] TripleNestedMapping
+- [x] Tupledore
+- [x] Unchecked
+- [x] WhoCalledMe
+- [x] Withdraw
