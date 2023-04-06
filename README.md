@@ -1,5 +1,7 @@
 # Foundry Solidity Exercises
 
+##### Solved 👇🏻
+
 - [x] AccessModifiers
 - [x] Add
 - [x] BasicBank
