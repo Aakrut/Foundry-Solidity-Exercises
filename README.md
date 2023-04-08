@@ -1,6 +1,6 @@
 # Foundry Solidity Exercises
 
-##### Solved 👇🏻
+### Solved 👇🏻
 
 - [x] AccessModifiers
 - [x] Add
